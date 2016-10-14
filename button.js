@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { AppRegistry, StyleSheet, Text, View } from 'react-native';
 import Button from 'react-native-button';
 
 export default class ExampleComponent extends Component {
